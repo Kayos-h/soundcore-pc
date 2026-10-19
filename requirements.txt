@@ -1,0 +1,10 @@
+customtkinter>=5.2
+winrt-runtime
+winrt-Windows.Devices.Bluetooth
+winrt-Windows.Devices.Bluetooth.Rfcomm
+winrt-Windows.Devices.Enumeration
+winrt-Windows.Networking
+winrt-Windows.Networking.Sockets
+winrt-Windows.Storage.Streams
+winrt-Windows.Foundation
+winrt-Windows.Foundation.Collections
